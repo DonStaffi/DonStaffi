@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @DonStaffi</h1>
-<h3 align="center">A passionate of cybersécurity</h3>
+<h3 align="center">A passionate of cybersecurity</h3>
 
 - 👨‍💻 All of my projects are available at [coming soon](coming soon)
 
