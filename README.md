@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm @DonStaffi</h1>
 <h3 align="center">A passionate of cybersecurity</h3>
 
-- 👨‍💻 All of my projects are available at [coming soon](coming soon)
+- 👨‍💻 All of my projects are available at (coming soon)
 
 - 💬 Ask me about me **Whatever you want, I will try to answer it**
 
